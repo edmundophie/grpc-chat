@@ -39,4 +39,4 @@ Coming soon...
 - Edmund Ophie 13512095
 - Kevin 13512097
 
-[Github Link](https://github.com/edmundophie/grpc-chat.git) 
+## [Github Link](https://github.com/edmundophie/grpc-chat.git) 
