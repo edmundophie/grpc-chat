@@ -32,8 +32,6 @@ CLI Chat Based on gRPC &amp; Protobuf
 	 ```
 
 ## Testing
-Coming soon...
-![alt text](https://github.com/edmundophie/grpc-chat/blob/master/testing-screenshot/comingsoon.png "Screenshoot Caption Goes Here!!!")
 ![alt text](https://github.com/edmundophie/grpc-chat/blob/master/blob/tes_1_prak_3_PAT_.png "Screenshot tes 1")
 ![alt text](https://github.com/edmundophie/grpc-chat/blob/master/blob/tes_2_prak_3_PAT.png "Screenshot tes 2")
 
