@@ -1,6 +1,5 @@
 # gRPC-chat
 CLI Chat Based on gRPC &amp; Protobuf
-[Github Link](https://github.com/edmundophie/grpc-chat.git) 
 
 ## Requirements
  - JRE >= 1.7
@@ -33,8 +32,11 @@ CLI Chat Based on gRPC &amp; Protobuf
 	 ```
 
 ## Testing
-![alt text](https://github.com/edmundophie/grpc-chat/blob/master/testing-screenshot/comingsoon.png "Testing Screenshot Goes Here!!!")
+Coming soon...
+![alt text](https://github.com/edmundophie/grpc-chat/blob/master/testing-screenshot/comingsoon.png "Screenshoot Caption Goes Here!!!")
 
 ## Team Member
 - Edmund Ophie 13512095
 - Kevin 13512097
+
+[Github Link](https://github.com/edmundophie/grpc-chat.git) 
